@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Buscaminas_YagoAlmeida</string>
+
+    <string name="flag">🚩</string>
+    <string name="bomb">💣</string>
+    <string name="default_count">000</string>
+    <string name="todo">TODO</string>
+</resources>
